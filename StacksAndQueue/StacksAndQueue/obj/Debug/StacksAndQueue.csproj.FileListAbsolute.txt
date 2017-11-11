@@ -1,0 +1,9 @@
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\bin\Debug\StacksAndQueue.exe.config
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\bin\Debug\StacksAndQueue.exe
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\bin\Debug\StacksAndQueue.pdb
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\obj\Debug\StacksAndQueue.csprojResolveAssemblyReference.cache
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\obj\Debug\StacksAndQueue.exe
+E:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\obj\Debug\StacksAndQueue.pdb
+G:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\bin\Debug\StacksAndQueue.exe.config
+G:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\obj\Debug\StacksAndQueue.exe
+G:\DatsStructuresAlgorithmClass\StacksAndQueue\StacksAndQueue\obj\Debug\StacksAndQueue.pdb
